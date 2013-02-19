@@ -1,10 +1,10 @@
 
 package me.gensan.android.samplemap;
 
-import android.app.Activity;
 import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
 
-public class SampleMapActivity extends Activity {
+public class SampleMapActivity extends FragmentActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
